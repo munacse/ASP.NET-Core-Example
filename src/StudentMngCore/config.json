@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "StudentMngConnection": "Server=DESKTOP-1PMKRV5;Database=StudentMngCoreDB;User ID=sa;Password=Sa2014;Trusted_Connection=False;"
+  }
+}
